@@ -4,7 +4,7 @@ spring:
     driver-class-name: org.gjt.mm.mysql.Driver  #设置数据库的驱动
     url: jdbc:mysql://127.0.0.1:3306/king #设置数据库的url
     username: root
-    password: lh08968818
+    password: root
     dbcp2:
       min-idle: 5                       #设置最小连接数
       initial-size: 5                   #设置当前数据库连接池启动时，创建的连接数
